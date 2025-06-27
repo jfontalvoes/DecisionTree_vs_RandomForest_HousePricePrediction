@@ -1,12 +1,12 @@
-# DecisionTree vs RandomForest House Price Prediction
+# Decision Tree vs Random Forest House Price Prediction
 This notebook explores and compares Decision Tree and Random Forest models for predicting house prices in Melbourne. It includes hyperparameter optimization using GridSearchCV to improve model accuracy and reduce prediction error.
 
 ## 📦 Technologies Used
-- ´pandas´ — Data handling and manipulation.
+- `pandas` — Data handling and manipulation.
 
-- ´numpy´ — Numerical operations.
+- `numpy` — Numerical operations.
 
-- ´scikit-learn´ — For machine learning models, metrics, train-test split, and GridSearchCV.
+- `scikit-learn` — For machine learning models, metrics, train-test split, and GridSearchCV.
   
 ## 📜 Installation
 
@@ -24,9 +24,9 @@ DecisionTree_vs_RandomForest_HousePricePrediction.ipynb
 
 2. Upload your dataset
 
-Option 1: Upload your dataset to your Google Drive.
+- Option 1: Upload your dataset to your Google Drive.
 
-Option 2: Place your dataset in a local directory if running locally.
+- Option 2: Place your dataset in a local directory if running locally.
 
 3. Set the correct dataset path
 In the notebook, locate the following code and update the ruta variable with your dataset path:
@@ -46,3 +46,12 @@ After hyperparameter optimization with GridSearchCV, the Random Forest model ach
 
 ## 📊 Dataset
 The dataset used in this project is the Melbourne Housing Market dataset.
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## ✨ Author
+Developed by Jonathan Estiven Fontalvo Aparicio 📧
+
+Feel free to copy this into your repo. If you'd like to contribute or help, just let me know!
+
